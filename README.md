@@ -1,4 +1,4 @@
-### Repositorio creado para subir proyectos hechos en python
+# Repositorio creado para subir proyectos hechos en python
 Para ejecutar estps proyectos se requiere:
 Instalacion de python:
 - [https://www.python.org/](https://www.python.org/downloads/)
