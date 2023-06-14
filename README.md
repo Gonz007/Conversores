@@ -1,4 +1,11 @@
 # Repositorio creado para subir proyectos hechos en python
+Para ejecutar estps proyectos se requiere:
+Instalacion de python:
+- [https://www.python.org/](https://www.python.org/downloads/)
+
+
+
+
 # Pdf_To_Word
 Conversor de archivos en formato .pdf a formato .docx
 
@@ -10,10 +17,6 @@ Juego de una nave renderizado en la consola de windows
 
 ![Python Music Player](https://github.com/Gonz007/Rar/blob/main/nave.png)
 
-
-Para ejecutar este proyecto se requiere:
-Instalacion de python:
-- [https://www.python.org/](https://www.python.org/downloads/)
 
 Instalacion de las bibliotecas usadas:
 - pip install pynput
