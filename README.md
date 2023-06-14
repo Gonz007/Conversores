@@ -13,7 +13,7 @@ Conversor de archivos en formato .pdf a formato .docx
 
 
 # Juego_de_consola_Python
-Juego de una nave renderizado en la consola de windows
+Juego de una nave renderizado en la consola de windows.
 
 ![Python Music Player](https://github.com/Gonz007/Rar/blob/main/nave.png)
 
